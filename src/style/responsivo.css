@@ -23,7 +23,7 @@
     }
 
     .secao-horizontal .cartao {
-        column-gap: 0.5rem;
+        column-gap: .5rem;
     }
 
     .secao-horizontal .cartao__imagem {
@@ -53,7 +53,7 @@
     .cabecalho__botao__avancar {
         display: none;
     }
-
+    
     .menu-lateral {
         width: 208px;
     }
